@@ -47,8 +47,7 @@ git clone https://github.com/hashicorp/terraform.git
 
 * Найдите коммит, в котором была создана функция `func providerSource`, её определение в коде выглядит так: `func providerSource(...)` (вместо троеточия перечислены аргументы).
 
-![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/4c5e9081-7eac-4e12-9a7d-0b865aaeb2c4)
-
+![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/b5e62ac6-d4d3-4129-bc6c-51d8782836ab)
 
 * Найдите все коммиты, в которых была изменена функция `globalPluginDirs`.
 
