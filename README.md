@@ -61,4 +61,6 @@ git clone https://github.com/hashicorp/terraform.git
 
 ![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/dd9cf7e1-2a23-4e3b-b98b-d6ff9a56c499)
 
+![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/1433a26e-bb2e-4664-9b01-9aaafa6679cf)
+
 автор Martin Atkins <mart@degeneration.co.uk
