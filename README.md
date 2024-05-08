@@ -26,8 +26,6 @@ git clone https://github.com/hashicorp/terraform.git
 
 ![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/579f3a88-e764-48bf-a5f1-2be9fa85eb5b)
 
-![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/6a0e3028-a4c4-4254-b687-cc3656367fe0)
-
 * Какому тегу соответствует коммит `85024d3`?
 
 ![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/4cf79e58-35d7-411f-869d-929e4e7b833e)
