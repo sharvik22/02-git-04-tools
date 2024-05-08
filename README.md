@@ -26,3 +26,8 @@ git clone https://github.com/hashicorp/terraform.git
 1. Найдите полный хеш и комментарий коммита, хеш которого начинается на `aefea`.
 ![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/e0888dfe-5e99-4cb6-9bfa-f94e684fee4b)
 
+* Какому тегу соответствует коммит `85024d3`?
+![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/6032315a-bc66-4ce8-a8bb-045f3b577dc7)
+
+
+
