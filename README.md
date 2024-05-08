@@ -19,4 +19,10 @@
 * Кто автор функции `synchronizedWriters`? 
 
 
+## Решение
+
+git clone https://github.com/hashicorp/terraform.git
+
+1. Найдите полный хеш и комментарий коммита, хеш которого начинается на `aefea`.
+![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/e0888dfe-5e99-4cb6-9bfa-f94e684fee4b)
 
