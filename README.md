@@ -42,8 +42,6 @@ git clone https://github.com/hashicorp/terraform.git
 
 * Перечислите хеши и комментарии всех коммитов, которые были сделаны между тегами  v0.12.23 и v0.12.24.
 
-![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/bd690bb3-2e23-4d8f-a799-8b62cc833b09)
-
 ![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/19658343-70c0-4e0d-a461-f55bac12cf34)
 
 
