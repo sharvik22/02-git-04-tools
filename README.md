@@ -52,8 +52,9 @@ git clone https://github.com/hashicorp/terraform.git
 
 * Найдите все коммиты, в которых была изменена функция `globalPluginDirs`.
 
-![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/606a51cc-b2e4-49ba-9cdf-05a5ad978640)
+![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/77894bf9-dd7a-4c32-80c1-70c5ff3ee603)
 
+![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/9fdd889d-79e5-4a39-ba66-82bece91abc1)
 
 * Кто автор функции `synchronizedWriters`? 
 
