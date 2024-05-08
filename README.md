@@ -36,6 +36,7 @@ git clone https://github.com/hashicorp/terraform.git
 ![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/1609ea4b-3424-4068-aa54-84e22b2fc4fc)
 
 два, полный хеш
+
 ![image](https://github.com/sharvik22/02-git-04-tools/assets/136818757/262a260e-4a01-4718-9da7-707a571f1583)
 
 
